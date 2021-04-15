@@ -29,3 +29,5 @@ for more options.
 #define RGBLED_NUM 14
 #define RGBLED_SPLIT {7,7}
 #define RGBLIGHT_ANIMATIONS
+
+#define VIAL_KEYBOARD_UID {0x86, 0x47, 0x4A, 0xF6, 0x65, 0x3E, 0x2C, 0xA5}
